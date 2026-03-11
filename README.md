@@ -19,7 +19,7 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Stochastic Processes  
 - Market Modeling  
 #  Technical Stack
-### Programming Languages           ### Tools
+### Programming Languages           Tools
 - Python                            - Excel
 - R                                 -Git
 - SQL                               - Jupyter Notebook
@@ -30,12 +30,7 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Financial Modeling
 - Risk Analysis
 - Data Analysis
-  
-#  Fun Facts
-- 🐕 I love Dobermans  
-- 🏋️ Gym is part of my daily discipline  
-- 🏎️ Formula 1 fan  
-- 🥊 UFC enthusiast  
+
 
 
 
