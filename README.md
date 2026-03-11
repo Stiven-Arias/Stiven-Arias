@@ -32,8 +32,6 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Data Analysis
   
 #  Fun Facts
-
-- 🧠 Knowledge lover  
 - 🐕 I love Dobermans  
 - 🏋️ Gym is part of my daily discipline  
 - 🏎️ Formula 1 fan  
