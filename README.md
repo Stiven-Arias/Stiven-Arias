@@ -10,7 +10,7 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 
 > *If a system can be imagined, it can be modeled.*
 
-# 🧠 Fields of Interest
+#  Fields of Interest
 
 - Probability Theory  
 - Mathematical Statistics  
@@ -20,7 +20,7 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Stochastic Processes  
 - Market Modeling  
 
-# 💻 Technical Stack
+#  Technical Stack
 
 ### Programming Languages
 - Python
@@ -40,9 +40,7 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Risk Analysis
 - Data Analysis
 
----
-
-# 📈 Current Focus
+#  Current Focus
 
 Currently working on projects related to:
 
@@ -51,24 +49,8 @@ Currently working on projects related to:
 - Monte Carlo Methods
 - Time Series Modeling
 - Banking Risk Metrics
-
-# 🎯 Long-Term Goal
-
-My goal is to become a **Quantitative Researcher** working on:
-
-- trading strategies
-- market microstructure
-- statistical arbitrage
-- quantitative risk models
-
-Target institutions:
-
-- Jane Street  
-- Citadel  
-- Two Sigma  
-- J.P. Morgan  
-
-# 🧩 Fun Facts
+- 
+#  Fun Facts
 
 - 🧠 Knowledge lover  
 - 🐕 I love Dobermans  
