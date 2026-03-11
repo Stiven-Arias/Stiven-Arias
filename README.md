@@ -11,7 +11,6 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 > *If a system can be imagined, it can be modeled.*
 
 #  Fields of Interest
-
 - Probability Theory  
 - Mathematical Statistics  
 - Quantitative Finance  
@@ -19,36 +18,18 @@ My work focuses on applying **statistical modeling, probability theory, and prog
 - Financial Engineering  
 - Stochastic Processes  
 - Market Modeling  
-
 #  Technical Stack
-
-### Programming Languages
-- Python
-- R
-- SQL
-
-### Tools
-- Excel
-- Git
-- Jupyter Notebook
-- RStudio
-
+### Programming Languages           ### Tools
+- Python                            - Excel
+- R                                 -Git
+- SQL                               - Jupyter Notebook
+                                    - RStudio
 ### Areas of Computation
 - Statistical Modeling
 - Monte Carlo Simulation
 - Financial Modeling
 - Risk Analysis
 - Data Analysis
-
-#  Current Focus
-
-Currently working on projects related to:
-
-- Credit Risk Modeling
-- Financial Data Analysis
-- Monte Carlo Methods
-- Time Series Modeling
-- Banking Risk Metrics
   
 #  Fun Facts
 
