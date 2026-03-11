@@ -76,14 +76,5 @@ Target institutions:
 - 🏎️ Formula 1 fan  
 - 🥊 UFC enthusiast  
 
-# 📊 GitHub Focus
-
-This GitHub is dedicated to projects related to:
-
-- quantitative finance
-- statistical modeling
-- risk analysis
-- financial simulations
-- probability experiments
 
 
