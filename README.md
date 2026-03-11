@@ -49,7 +49,7 @@ Currently working on projects related to:
 - Monte Carlo Methods
 - Time Series Modeling
 - Banking Risk Metrics
-- 
+  
 #  Fun Facts
 
 - 🧠 Knowledge lover  
